@@ -1,0 +1,15 @@
+title: HP_0000_some_name_here
+description: >
+  Some text description here. It will be merged into one line.
+tags:
+  - attack.persistence          # mapping to MITRE ATT&CK tectics/techniques/mitigations + other relevant tags
+  - attack.t1053                # this way we map specific mitigation step to specific threat tectics/techniques
+references:
+  - http://something.com
+platform: Windows                           # Linux | Unix | macOS | etc
+mitigation_system: Windows Defender ATP     # Some specific OS component | None
+prerequisites:
+  - Windows 10 versions 1709 or later       # list of things (in free text format) which are required for specific mitigation strategy
+configuration: |
+  Detailed description of configuratoin in markdown format.
+  Here newlines will be saved.
