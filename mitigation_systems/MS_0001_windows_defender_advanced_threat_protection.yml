@@ -1,8 +1,8 @@
 title: MS_0001_windows_defender_advanced_threat_protection
 platform: Windows
-versions:
-  - Windows 10 or later
-  - Windows Server 2016 or later
+minimum_version:
+  - Windows 10
+  - Windows Server 2016
 references:
   - https://docs.microsoft.com/en-us/windows/security/threat-protection/
   - https://attackevals.mitre.org/microsoft.1.apt3.1_configuration

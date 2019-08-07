@@ -2,7 +2,7 @@ title: MS_0000_some_name_here
 references:
   - http://something.com
 platform: Windows                           # Linux | Unix | macOS | etc
-versions:
+minimum_version:
   - Windows 10 or later 										# Windows Server 2016 or later | etc
 description: |
   Some text description here. Here newlines will be saved.
