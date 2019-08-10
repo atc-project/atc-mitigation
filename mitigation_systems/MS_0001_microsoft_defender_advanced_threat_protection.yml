@@ -8,7 +8,7 @@ references:
   - https://attackevals.mitre.org/microsoft.1.apt3.1_configuration
   - https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection
 description: |
-  Windows Defender Advanced Threat Protection (WDATP) is a unified platform for preventative protection, post-breach detection, automated investigation, and response. 
+  Microsoft Defender Advanced Threat Protection (ATP) is a unified platform for preventative protection, post-breach detection, automated investigation, and response. 
   Microsoft Defender ATP protects endpoints from cyber threats; detects advanced attacks and data breaches, automates security incidents and improves security posture.
   The platform includes: 
 
