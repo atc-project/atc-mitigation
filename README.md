@@ -27,7 +27,7 @@ We are going to highlight these connections to emphasize importance of some Miti
 
 ### Motivation
 
-Mostly, we are just tired of vendor's marketing materials, magic quadrants, security systems which are not just not working, but making everything worse. We have to admit — most of companies in Information Security area are targeting income only.  
+Mostly, we are just tired of vendor's marketing materials, magic quadrants, security systems which are not just not working, but making everything worse. From our observation, sadly we have to admit that most of the companies in Information Security area seem to target only the income.  
 
 We are targeting security, as well as most of community projects.  
 
