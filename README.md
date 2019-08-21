@@ -27,9 +27,9 @@ We are going to highlight these connections to emphasize importance of some Miti
 
 ### Motivation
 
-Mostly, we are just sick out of vendor's marketing materials, security systems which are not just not working, but making everything worse, magic quadrants and Information Security market in general. It is a business, and business is targeting money. 
+Mostly, we are just tired of vendor's marketing materials, magic quadrants, security systems which are not just not working, but making everything worse. We have to admit — most of companies in Information Security area are targeting income only.  
 
-We are targeting security.  
+We are targeting security, as well as most of community projects.  
 
 That's why we would like to show and proof that *some* security systems are highly overestimated, while importance of basics, (i.e. hardening, which is not just cheap, but **free**) is extremely underestimated.
 
